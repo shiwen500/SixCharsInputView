@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SixCharsInputView">
+        <attr name="bg_selected" format="reference"/>
+        <attr name="bg_unselected" format="reference" />
+        <attr name="horizontal_spacing" format="dimension"/>
+        <attr name="input_frame_size" format="dimension"/>
+        <attr name="password_mask" format="reference"/>
+        <attr name="password_mask_text" format="string" />
+        <attr name="is_password" format="boolean"/>
+    </declare-styleable>
+</resources>
